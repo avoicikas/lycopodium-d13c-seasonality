@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article and the dataset."
+title: "Analysis code for: Changes in Organ-Specific δ13C of Lycopodium annotinum L. (Lycopodiaceae) Across an Annual Cycle"
+type: software
+license: MIT
+repository-code: "https://github.com/avoicikas/lycopodium-d13c-seasonality"
+authors:
+  - family-names: Clarke
+    given-names: Anita Elizabeth
+  - family-names: Garbaras
+    given-names: Andrius
+  - family-names: Voicikas
+    given-names: Aleksandras
+  - family-names: Rimgaile-Voicik
+    given-names: Radvile
+references:
+  - type: data
+    title: "Dataset for Seasonal Changes in Organ-Specific δ13C of Lycopodium annotinum L. (Lycopodiaceae)"
+    doi: 10.5281/zenodo.23452117
+    authors:
+      - family-names: Clarke
+        given-names: Anita Elizabeth
+      - family-names: Garbaras
+        given-names: Andrius
+      - family-names: Voicikas
+        given-names: Aleksandras
+      - family-names: Rimgaile-Voicik
+        given-names: Radvile
