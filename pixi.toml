@@ -1,0 +1,19 @@
+[workspace]
+name = "lycopodium_seasonality_analysis"
+channels = ["conda-forge"]
+platforms = ["linux-64", "win-64", "osx-64", "osx-arm64"]
+
+[tasks]
+analysis = "python run_all.py"
+
+[dependencies]
+python = ">=3.14.3,<3.15"
+numpy = ">=2.4.2,<3"
+pandas = ">=3.0.1,<4"
+scipy = ">=1.17.1,<2"
+statsmodels = ">=0.14.6,<0.15"
+matplotlib = ">=3.10.8,<4"
+seaborn = ">=0.13.2,<0.14"
+openpyxl = ">=3.1.5,<4"
+geopandas = ">=1.1.2,<2"
+contextily = ">=1.7.0,<2"
