@@ -23,3 +23,5 @@ Figure 3 is a photograph. Figure S6 needs internet access for OpenStreetMap tile
 | `spatial_contrasts.py` | contrasts under spatial covariance models |
 | `carbon_exclusion.py` | sensitivity to the three C < 30% samples |
 | `tables.py`, `figures.py`, `sampling_map.py` | tables and figures |
+
+Code: MIT License (`LICENSE`). `measurement_dates.csv`: CC BY 4.0, like the Zenodo dataset.

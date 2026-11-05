@@ -1,5 +1,5 @@
 [workspace]
-name = "lycopodium_seasonality_analysis"
+name = "lycopodium-d13c-seasonality"
 channels = ["conda-forge"]
 platforms = ["linux-64", "win-64", "osx-64", "osx-arm64"]
 
